@@ -1,0 +1,6 @@
+2025/01/20 03:14:12 Error: Expected response to be successful, got 422
+    at Request.handleFailure [as _handleFailure] (/data/data/com.termux/files/usr/lib/node_modules/heroku/node_modules/heroku-client/lib/request.js:255:11)
+    at Request.<anonymous> (/data/data/com.termux/files/usr/lib/node_modules/heroku/node_modules/heroku-cli-util/lib/command.js:56:12)
+    at /data/data/com.termux/files/usr/lib/node_modules/heroku/node_modules/heroku-client/lib/request.js:148:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025/01/20 03:14:13 {"id":"verification_required","message":"To create an app, verify your account by adding payment information. Verify now at https://heroku.com/verify Learn more at https://devcenter.heroku.com/articles/account-verification "}
